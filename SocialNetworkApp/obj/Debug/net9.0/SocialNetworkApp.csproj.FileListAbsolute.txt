@@ -1,0 +1,14 @@
+D:\КПІ\ОП_2частина\cursov\SocialNetworkApp\bin\Debug\net9.0\SocialNetworkApp.exe
+D:\КПІ\ОП_2частина\cursov\SocialNetworkApp\bin\Debug\net9.0\SocialNetworkApp.deps.json
+D:\КПІ\ОП_2частина\cursov\SocialNetworkApp\bin\Debug\net9.0\SocialNetworkApp.runtimeconfig.json
+D:\КПІ\ОП_2частина\cursov\SocialNetworkApp\bin\Debug\net9.0\SocialNetworkApp.dll
+D:\КПІ\ОП_2частина\cursov\SocialNetworkApp\bin\Debug\net9.0\SocialNetworkApp.pdb
+D:\КПІ\ОП_2частина\cursov\SocialNetworkApp\obj\Debug\net9.0\SocialNetworkApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\КПІ\ОП_2частина\cursov\SocialNetworkApp\obj\Debug\net9.0\SocialNetworkApp.AssemblyInfoInputs.cache
+D:\КПІ\ОП_2частина\cursov\SocialNetworkApp\obj\Debug\net9.0\SocialNetworkApp.AssemblyInfo.cs
+D:\КПІ\ОП_2частина\cursov\SocialNetworkApp\obj\Debug\net9.0\SocialNetworkApp.csproj.CoreCompileInputs.cache
+D:\КПІ\ОП_2частина\cursov\SocialNetworkApp\obj\Debug\net9.0\SocialNetworkApp.dll
+D:\КПІ\ОП_2частина\cursov\SocialNetworkApp\obj\Debug\net9.0\refint\SocialNetworkApp.dll
+D:\КПІ\ОП_2частина\cursov\SocialNetworkApp\obj\Debug\net9.0\SocialNetworkApp.pdb
+D:\КПІ\ОП_2частина\cursov\SocialNetworkApp\obj\Debug\net9.0\SocialNetworkApp.genruntimeconfig.cache
+D:\КПІ\ОП_2частина\cursov\SocialNetworkApp\obj\Debug\net9.0\ref\SocialNetworkApp.dll
